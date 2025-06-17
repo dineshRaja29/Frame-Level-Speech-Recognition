@@ -32,7 +32,7 @@ Build models that predict the phoneme state of each 28-dimensional Mel spectrogr
 - Based on [this paper](https://ieeexplore.ieee.org/document/7472646)
 - Similar training setup as FF-DNN
 
-## 🧪 Experiments
+## Experiments
 
 ### Experiment I
 - FF-DNN
@@ -45,13 +45,13 @@ Build models that predict the phoneme state of each 28-dimensional Mel spectrogr
 - No data augmentation or hyperparameter tuning
 - Same best practices as above
 
-## 📈 Evaluation
+## Evaluation
 
 - Accuracy
 - Precision and Recall
 - Confusion Matrix
 
-## 🔗 References
+## References
 
 - [FF-DNN Paper](https://ieeexplore.ieee.org/document/5734801)
 - [LA-DNN Paper](https://ieeexplore.ieee.org/document/7472646)
